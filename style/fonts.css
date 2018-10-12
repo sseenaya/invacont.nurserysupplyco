@@ -1,0 +1,75 @@
+/*Invacont Test (Kristina Mukha, e-mail: annaseenaya@gmail.com)*/
+@font-face { 
+font-family: HelveticaNeueCyr; 
+src: local(fonts/HelveticaNeueCyr-Black.otf) format('opentype');
+font-weight: 900;
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-BlackItalic.otf) format('opentype'); 
+font-weight: 900;
+font-style: italic;
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-Bold.otf) format('opentype'); 
+font-weight: bold;
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-BoldItalic.otf) format('opentype'); 
+font-weight: bold;
+font-style: italic;
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-Italic.otf) format('opentype'); 
+font-style: italic;
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-Light.otf) format('opentype');
+font-weight: 300; 
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-LightItalic.otf) format('opentype'); 
+font-weight: 300; 
+font-style: italic;
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-Medium.otf) format('opentype'); 
+font-weight: 500; 
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-Roman.otf) format('opentype'); 
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-Thin.otf) format('opentype'); 
+font-weight: 100; 
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-ThinItalic.otf) format('opentype'); 
+font-weight: 100; 
+font-style: italic;
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-UltraLight.otf) format('opentype'); 
+font-weight: 200; 
+} 
+@font-face { 
+font-family: HelveticaNeueCyr;
+src: local(fonts/HelveticaNeueCyr-UltraLightItalic.otf) format('opentype');
+font-weight: 200; 
+font-style: italic; 
+}
+@font-face {
+font-family: NimbusSan; 
+src: local(fonts/NimbusSanTConBold.ttf) format('truetype');
+font-weight: bold;
+}
